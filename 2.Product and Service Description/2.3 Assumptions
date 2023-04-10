@@ -1,1 +1,14 @@
 
+-It is assumed that the staff is familiar with the English language
+-It is assumed that the clients have a basic knowledge of smartphones or ps.
+-The mobile devices are assumed to have either iOS or Android operating systems.
+-The administrative and management functions will be managed using a web interface 
+and this assumes an active internet connection and a device which has access to the
+internet (laptop, PC, mobile device)
+-It is assumed that the admin will have access rights to the data entered by the student,
+as well as the teacher, which apart from the form, can access other students' data
+only if the patient allows it. This data is accessed as stated in the related Albanian law
+on data protection.
+-It is assumed that the information provided by the student is entirely confidential. The
+student will have confidential rights to view and update their personal information on the
+system.

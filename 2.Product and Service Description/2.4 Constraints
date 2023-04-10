@@ -1,1 +1,7 @@
-
+The system will potentially have the following constraints:
+· Every student, teacher and manager must log in and/or register with their
+personal username.
+· There should be provided fast internet connection so as the app can work
+properly.
+· The student should be logged in to send the form and contact the teacher or manager.
+Otherwise he/she will be considered as a visitor.

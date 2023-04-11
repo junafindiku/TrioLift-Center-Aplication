@@ -1,1 +1,23 @@
+3.2.1.1 User Interface requirements 
+•	The system will be a web-based application; It can be accessed by the following browsers: Chrome, Mozilla Firefox, Safari, Microsoft Edge. 
+•	The user interface will be grouped into 3 main interfaces related with the role of the user.
+Log in Interface
+Before the users log in to interact with the system there will be a navigation bar where users can choose how  they want to log in .After they chose ,they will have the log in interface . 
+It is accessible to all users. It has the input fields for the necessary details, such as the username and password. The submit button will enable users to log in and access the other pages.
+Student Interface 
+-To the students, firstly there will be displayed the home page which includes four categories that make the link to other pages with different functionalities.
+Each of the categories will be displayed using icons and label to be easily determined by the students .On the top there will be a navigation bar for quick navigation through the app.
+-In the GetInfo section, there will be displayed 4 options: Check Language , Check Schedule, Check Prices, Review.
+-In the Registration section, there will be displayed a form with all the required input boxes ,there will be the option to make the payment and a button to make the submission of the form. 
+-In the Learn section,t here will be a chat icon to send the user to a chat section to communicate with the teachers , also the student can call in the course center by clicking the phone icon, or can write messages in the chat boxes, also there will be the camera icon to join in online meetings. 
+-In the dairy page, the student will be provided with empty pages to write notes for the taken online lessons and to write their review about the center.
+  Teacher Interface 
+-In the teacher interface ,there will be displayed all the needed buttons to make the link with other pages. One page will show the information for students where the filtering options will make the searching quicker and easier.
+In the teacher interface there should also be a calendar to show all the dates marked with color in case the lesson is canceled and to keep the participation of the students.
+The second page will show the Notification section in which will be displayed a number of options ,they will be notified if schedule change or any other change.
+In MyInfo section there will be two options ,to have access in their personal data regarding their monthly performance and will have empty pages to keep notes and a  entering the working hours, there will be also a menu with all the languages that the center offers to help them to choose the language they will perform.
+Manager Interface
+-The manager of the system will have access to all the dedicated interafaces and also, he/she can make limited customizations to the necessary features.
+The system administrator is the only user who can give access permissions to all the other users, so the only way of accessing the system is through a log in where it will require the email and password.
+ -A similar design will be used for the prospect, customer, and account creation interfaces. The designated user will add the information about these entities in the field forms, where each field will be grouped according to how relevant or connected it is to the others. 
 

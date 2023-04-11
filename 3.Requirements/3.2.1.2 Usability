@@ -1,1 +1,33 @@
+Operational Requirements
+   In the following paragraphs, we will specify the operational requirements separated in three categories according to the three user categories as specified in the initiation of our project:
+-Teachers:
+1- The teaching staff will be able to upload teaching materials regularly and the system enables later modifications or updates to the stream.
+2- Professors will be able to accept students request if there are new students that will become part of the class.
+3 – Teachers can post and deliver statements any time and the section will be open to comments or questions.
+4 – In the end of a class, professors will have the chance to share data with the participants of the class regarding statistics linked to the performance of the class or group divisions in cases of group projects. 
+5 – The teaching staff will use several communication channels considering the fact that our system consists of several users of different categories. The teachers will be able to choose between: opening a communication chat with the manager, with their colleagues, with the entire class or with a certain student only. 
+6 – In the end of the course or in other special cases, the teaching staff can choose to deliver a certificate-like format to the contributors or to the students they mentored.
+7 – Operations such as delete, edit, add and read will be available in every section of the app (data management).
+8 – In the profiles of this user category the option of “update agenda” will be available as well. 
+9 - The application will be available 24/7.
+10 – Part of the application for users registered as teachers will be the section containing data regarding the working hours (regular and overtime) , bonuses, holidays and certain time intervals where the center will be closed (e.g Christmas and Holiday Season or the summer interval). The program will include a calculator that will enable the teaching staff the prior calculation of their monthly salary.
+11 – Only individuals that have priorly signed the employment contract and have been admitted by the manager of the firm will be able to log in to the app.
+-Students:
+1 – Students will be able to get and send notifications to their teacher as well as to another student that is part of the same class .
+2 – Students may submit an assignment in the class stream or post questions if something is unclear.
+3 – The app shall automatically send a notification to the student in cases where the class is canceled or substitute lesson is planned. 
+4 - The application will be available to the students 24/7.
+5 – Only students that have already signed the contract, finished the payments procedures and gotten approved by the respective teacher will be able to log in to the app. 
+-Manager:
+1 – The manager will manage the data linked to legal and financial affairs of the company such as: employment contracts, service contracts, tax payments, renting fees, balance sheets, etc. 
+2 – The manager will have in disposition a communication channel with the professors, but not with the students.
+3 – The manager will be able add or delete the profile of teachers based on their employment contract. 
+4 – The manager will get a notification days before the contract of an employee of the center expires. 
+5 – The manager will be able to post announcements in the center and respond to questions coming from the employees. 
+6 – In the profile of the manager will be a database containing information related to the general number of courses, employees and registered students.
+7 – The manager will automatically be registered in the system and is considered as the “master” of it. 
+8 - The application will be available 24/7.
+These operations will be handled by the data management team (software developers).
+3.2.2.3 Development Requirements 
+  In order to be able to log in to the app, a stable Internet connection is required. Both the usage of Wi-Fi or mobile data is okay, but in cases of unstable Internet connection, only the main stream of the profile can be displayed and no other operations can be fully accomplished. 
 
